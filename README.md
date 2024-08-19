@@ -25,7 +25,6 @@ a classification of recipes on the categories page, including the most common on
 ## Links
 *****
 * [Jira](https://aseel-hamayel.atlassian.net/jira/software/projects/REAC/issues/?filter=doneissues)
-<<<<<<< HEAD
 * [Figma](https://www.figma.com/file/qZbt5n8nhthxljdBZ6XhXd/RecTrack?node-id=0%3A1&t=uRvapZLrLCeFRIpC-1)
 * [APK](https://drive.google.com/file/d/1reTVkX-JLsUoc2V9vf1_L_fM52swztAJ/view)
 
