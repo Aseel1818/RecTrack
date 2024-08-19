@@ -32,4 +32,3 @@ a classification of recipes on the categories page, including the most common on
 *****
 ![alt text](screenshots/team.jpg)
 =======
->>>>>>> 0452a2db03f713411e2e01157e0e0f6e4c6176fb
